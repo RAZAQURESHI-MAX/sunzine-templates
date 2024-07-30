@@ -1,0 +1,65 @@
+.main {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: scroll;
+    /* background-color: blueviolet; */
+}
+
+.navi {
+    height: 5%;
+    width: 100%;
+    padding: 2%;
+    /* background-color: aqua; */
+
+}
+
+.logo {
+    gap: 20px;
+}
+
+.text {
+    padding-top: 8%;
+    font-family: "Hind", sans-serif;
+    height: 55%;
+    width: 100%;
+    /* background-color: aqua; */
+
+}
+
+.navi1 {
+    height: 15%;
+    width: 100%;
+    gap: 40px;
+    /* background-color: yellowgreen; */
+}
+
+.spin {
+    height: 200px;
+    align-items: center;
+}
+
+.footer {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 30px;
+    padding: 3%;
+}
+
+.image4 {
+    height: 40px;
+    /* width: 100px; */
+}
+
+.para {
+    gap: 5px;
+}
+
+img {
+    border: 5px solid white;
+}
